@@ -7,7 +7,7 @@
     </h2>
 
     <div class="archive__item-excerpt" itemprop="description">
-      {{ post.content }}
+      {{ post.content | markdownify }}
     </div>
 
   </article>
