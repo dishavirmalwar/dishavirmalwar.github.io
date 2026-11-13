@@ -1,4 +1,3 @@
-
 ---
 title: "Revisiting 2025 Himalayan Extremes Through Tropical–Extratropical Interactions"
 collection: talks
